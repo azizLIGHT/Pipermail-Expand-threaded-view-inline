@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         ros-dev Expand threaded view inline
-// @namespace    https://www.reactos.org/pipermail/ros-dev/
-// @version      0.3
-// @description  try to take over the world!
+// @name         Pipermail: Expand threaded view inline
+// @namespace    https://github.com/azizLIGHT/Pipermail-Expand-threaded-view-inline
+// @version      0.3.1
+// @description  read, expand and collapse mailing list posts inline in a single page without unnecessary browser navigation.
 // @author       Mark Jansen
+// @author       azizLIGHT <github@azizlight.net> (github.com/azizLIGHT)
 // @match        https://www.reactos.org/pipermail/ros-dev/*/thread.html
+// @match        https://lists.zx2c4.com/pipermail/wireguard/*/thread.html
 // @grant        none
 // @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
