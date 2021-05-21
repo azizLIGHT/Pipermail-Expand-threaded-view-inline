@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pipermail: Expand threaded view inline
 // @namespace    https://github.com/azizLIGHT/Pipermail-Expand-threaded-view-inline
-// @version      0.3.3
+// @version      0.3.4
 // @description  read, expand and collapse mailing list posts inline in a single page without unnecessary browser navigation.
 // @author       Mark Jansen
 // @author       azizLIGHT <github@azizlight.net> (github.com/azizLIGHT)
