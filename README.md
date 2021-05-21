@@ -8,6 +8,6 @@ Clicking a post title will bring you to the single item.
 
 ![Demonstration](screencast.gif?raw=true "Demonstration")
 
-Currently works on mailing list pages for the Linux Foundation, Python.org, FreeBSD.org, Wikimedia, ReactOS and Wireguard among others. More can and will be added soon. Feel free to submit issues or pull requests!
+Currently works on mailing list pages for the Arch Linux, Linux Foundation, Python.org, FreeBSD.org, Wikimedia, ReactOS and Wireguard among others. More can and will be added soon. Feel free to submit issues or pull requests!
 
 Taken from [learn_more on ReactOS forums](https://reactos.org/forum/viewtopic.php?t=14749)
