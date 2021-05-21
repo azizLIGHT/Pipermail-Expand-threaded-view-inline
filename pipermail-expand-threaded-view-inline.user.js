@@ -15,6 +15,7 @@
 // @match        https://mail.python.org/pipermail/*/*/thread.html
 // @match        https://lists.linuxfoundation.org/pipermail/*/*/thread.html
 // @match        https://lists.manjaro.org/pipermail/*/*/thread.html
+// @match        https://lists.archlinux.org/pipermail/*/*/thread.html
 // @grant        none
 // @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
